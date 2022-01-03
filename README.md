@@ -7,12 +7,6 @@ A free Whois lookup platform in one page with automatic language detection.
 Written by Emre Yavuz.
 
 
-## Dependencies
-
-- Language Detection | **[getInformationFromIP.php](https://github.com/emreyvz/get-information-from-ip)**
-- Toast | **[Toastify](https://github.com/apvarun/toastify-js)**
-
-
 ## Whois API
 
 Get API Key from **[promptapi.com](https://promptapi.com/marketplace/description/whois-api)** and change API_KEY with new one at js/functions.js:29
@@ -49,6 +43,13 @@ Simply add new language code as key to assets/languages.json object like shown b
         "domain_is_not_valid": "Domain name is not valid"
     }
 ```
+
+
+## Dependencies
+
+- Language Detection | **[getInformationFromIP.php](https://github.com/emreyvz/get-information-from-ip)**
+- Toast | **[Toastify](https://github.com/apvarun/toastify-js)**
+
 
 ## License & Attribution
 
