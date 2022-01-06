@@ -20,7 +20,7 @@ beforeSend: function(xhr){xhr.setRequestHeader('apikey', 'YOUR_APIKEY');},
 
 ## Languages
 
-Simply add new language code as key to assets/languages.json object like shown below
+Simply add new language code as key to assets/languages.json object array like shown below
 
 ```json
    "EN" : {
