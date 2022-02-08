@@ -49,6 +49,7 @@ Simply add new language code as key to assets/languages.json object array like s
 
 - Language Detection | **[getInformationFromIP.php](https://github.com/emreyvz/get-information-from-ip)**
 - Toast | **[Toastify](https://github.com/apvarun/toastify-js)**
+- animate.css | **[animate.css](https://github.com/animate-css/animate.css)**
 
 
 ## License & Attribution
